@@ -1,0 +1,107 @@
+#logo {
+	font-family: 'Tiny5', sans-serif;
+	font-size: 30px;
+}
+
+#shigeo {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 800;
+	font-size: 50px;
+}
+
+#landing {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+	url(https://t4.ftcdn.net/jpg/06/60/84/59/360_F_660845913_mqCzord69qkBY63nTVrW8fZW5YLVrjxS.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+#landing h4 {
+	font-family: Montserrat;
+	font-weight: 700;
+}
+
+
+#landing p {
+	font-size: 20px;
+	font-weight: 400;
+	font-family: Open Sans;
+}
+
+
+
+#tools {
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+	url(https://itsaboutanime.wordpress.com/wp-content/uploads/2019/12/4k-anime-wallpapers-top-free-4k-anime-backgrounds.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#contact {
+	background-color: #54a3ab;
+	font-size: 20px;
+}
+
+#contact form input {
+	background-color: #FFFFFF;
+	border: 1px solid #000000 !important;
+	border-radius: 0 !important;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 29.26px;
+}
+
+#contact form textarea {
+	background-color: #FFFFFF;
+	border: 1px solid #000000 !important;
+	border-radius: 0 !important; 
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 29.26px;
+}
+
+
+
+#form-btn {
+	background-color: #e46d1b;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-weight: 800;
+	padding: 12px 32px 12px 32px;
+	gap: 8px;
+	border-radius: 999px;
+}
+
+
+#contact-img {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+	url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81M19hX21pbmltYWxfYW5kX2xlc3NfZGV0YWlsX2lsbHVzdHJhdGlvbl9vZl9jaF8xN2NmMTIxNy1kNDM0LTRjYTYtYjIxYy04ZmQyMjQxMjlkN2EuanBn.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#fb-logo, #linkedin-logo, #gh-logo, #gl-logo {
+	height: 30px;
+}
+
+.card-title {
+	font-family: Open Sans;
+	font-weight: 600;
+}
+
+.card-img-top {
+	height: 200px;
+}
+
+#projects-title, #tools-title {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 40px;
+}
+
+#form-title, #contact-title {
+	font-family: Montserrat;
+	font-weight: 700;
+	font-size: 40px;
+}
